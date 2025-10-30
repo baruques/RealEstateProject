@@ -1,7 +1,5 @@
 # Real Estate Tokenization Platform (RE-Token)
 
-[YOUR PROJECT LOGO/BANNER HERE]
-
 ![Solidity](https://img.shields.io/badge/Solidity-^0.8.20-lightgrey?logo=solidity)
 ![Hardhat](https://img.shields.io/badge/Hardhat-Framework-yellow?logo=hardhat)
 ![Foundry](https://img.shields.io/badge/Foundry-Framework-orange?logo=foundry)
