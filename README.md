@@ -16,7 +16,7 @@
 
 ## 📖 Overview
 
-**RE-Token** is a proof-of-concept (PoC) project developed for the [Your Course Name] course. It demonstrates a system for tokenizing real-world real estate assets on the Ethereum blockchain.
+**RE-Token** is a proof-of-concept (PoC) project developed for the NearX course. It demonstrates a system for tokenizing real-world real estate assets on the Ethereum blockchain.
 
 The primary goal is to explore how blockchain technology can solve traditional real estate investment problems, such as:
 * **Illiquidity:** Making it easier to buy and sell property shares.
